@@ -13,4 +13,5 @@ The CITY table is described as follows:
 +--------------+--------------+
 */
 
+
 select name from city where countrycode='jpn';
